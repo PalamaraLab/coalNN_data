@@ -1,5 +1,5 @@
-# CoalNN_data
-Files needed for CoalNN experiments: genetic maps, demographies, UKBB allele frequencies. 
+# CoalNN data
+Files needed for CoalNN experiments: genetic maps, demographies, UKBB allele frequencies. Pre-trained weights are available [here](https://github.com/PalamaraLab/coalNN_data/blob/main/CEU_hg19.zip).
 
 # 🕰️ Allele age annotations
 
